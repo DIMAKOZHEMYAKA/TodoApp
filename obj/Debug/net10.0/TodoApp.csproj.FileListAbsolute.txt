@@ -1,0 +1,14 @@
+C:\Шляпа\SHARPU\todolist\TodoApp\bin\Debug\net10.0\TodoApp.exe
+C:\Шляпа\SHARPU\todolist\TodoApp\bin\Debug\net10.0\TodoApp.deps.json
+C:\Шляпа\SHARPU\todolist\TodoApp\bin\Debug\net10.0\TodoApp.runtimeconfig.json
+C:\Шляпа\SHARPU\todolist\TodoApp\bin\Debug\net10.0\TodoApp.dll
+C:\Шляпа\SHARPU\todolist\TodoApp\bin\Debug\net10.0\TodoApp.pdb
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.AssemblyInfoInputs.cache
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.AssemblyInfo.cs
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.dll
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\refint\TodoApp.dll
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.pdb
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\TodoApp.genruntimeconfig.cache
+C:\Шляпа\SHARPU\todolist\TodoApp\obj\Debug\net10.0\ref\TodoApp.dll
